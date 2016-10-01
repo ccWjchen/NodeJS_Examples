@@ -1,0 +1,10 @@
+var x=3;
+var y=x/2;
+var z=x%2;
+console.log("x=3;");
+console.log("y=x/2;");
+console.log("y的結果是");
+console.log(y);
+console.log("z=x%2;");
+console.log("z的結果是");
+console.log(z);
